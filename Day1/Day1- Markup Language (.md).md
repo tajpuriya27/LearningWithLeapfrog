@@ -8,5 +8,5 @@
 
 ![paperImage](Day1.jpg)
 
-**It is hard for me make markdown documentation in Markup Language as beginner**  
+**It is hard for me to make markdown documentation in Markup Language as beginner**  
 _**I will definitely learn that soon**_
