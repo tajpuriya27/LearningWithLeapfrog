@@ -1,3 +1,6 @@
 pathways_planning/
 Python_test_file.py
 tempCodeRunnerFile.py
+
+# igonore all python files
+*.py
