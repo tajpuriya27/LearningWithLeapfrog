@@ -1,5 +1,5 @@
 
-# Day25- Python DateTimeModule && Python string replace
+# Day25- Python DateTimeModule
 
 Python Datetime module and its functions could come quite handy for recording the events and logs with the timestamp value.
 
